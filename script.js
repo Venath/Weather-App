@@ -41,6 +41,6 @@ searchButton.addEventListener("click", ()=>{
     checkWeather(city)
 })
 
-checkWeather("New York"); //default newyork
+checkWeather("Colombo"); //default newyork
 
 
